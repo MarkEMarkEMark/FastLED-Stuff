@@ -5,7 +5,7 @@
 #define CHIPSET     WS2801
 #define NUM_LEDS    100
 
-#define BRIGHTNESS  100
+#define BRIGHTNESS  200
 #define FRAMES_PER_SECOND 100
 
 CRGB leds[NUM_LEDS];
