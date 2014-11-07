@@ -5,7 +5,7 @@
 #define CHIPSET     WS2801
 #define NUM_LEDS    100
 
-#define BRIGHTNESS  200
+#define BRIGHTNESS  255 //what's the maximum? Can't find anywhere 
 #define FRAMES_PER_SECOND 100
 
 CRGB leds[NUM_LEDS];
